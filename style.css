@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+iframe
+{
+    width: 100em;
+    height: 40em;
+}
